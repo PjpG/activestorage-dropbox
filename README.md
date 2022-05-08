@@ -1,3 +1,6 @@
+# ARCHIVED
+Integration with Dropbox started to cause more and more issues. Decided to use different provider.
+
 # Dropbox Support for Active Storage
 ### Activestorage::Service::DropboxService
 
